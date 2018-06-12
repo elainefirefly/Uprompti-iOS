@@ -1,6 +1,9 @@
 # Uprompti-iOS
 [View on the App Store](https://itunes.apple.com/us/app/uprompti/id822767958)
 
+![Uprompti Logo](https://raw.githubusercontent.com/elainefirefly/uprompti-ios/master/images/img.png)
+
+
 
 Uprompti is a teleprompter and a video recorder in one. Aside from recording video messages, Uprompti is an effective tool for rehearsing scripts for acting gigs, auditions, presentations, and speaking engagements.
 
